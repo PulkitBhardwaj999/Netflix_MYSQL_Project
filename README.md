@@ -1,7 +1,7 @@
 # Netflix_MYSQL_Project
-MySql queries 
 
 # Netflix Movies and TV Shows Data Analysis using SQL
+<img width="2226" height="678" alt="image" src="https://github.com/user-attachments/assets/9e0c7ab1-0e18-460f-8720-67eb1888c402" />
 
 This project aims to provide a comprehensive SQL-based analysis of Netflix's catalog of movies and TV shows. Using structured queries, we address a series of business problems, extract valuable insights, and present key findings that can inform content strategy and decision-making.
 
@@ -264,6 +264,7 @@ _Objective: Content flagged as "Bad" or "Good" by keywords in descriptions._
 ---
 
 ## Author
+Pulkit Bhardwaj
 
 
 
